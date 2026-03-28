@@ -1,0 +1,52 @@
+MİSTİK FALCI GİZLİLİK POLİTİKASI
+Son Güncelleme: 28 Mart 2026
+
+Ortapp Teknoloji ve Yazılım Limited Şirketi ("Biz", "Şirketimiz") olarak, Mistik Falcı uygulaması kullanıcılarının ("Siz") gizliliğine ve kişisel verilerinin korunmasına büyük önem veriyoruz. Bu politika; hangi verileri topladığımızı, bunları nasıl kullandığımızı ve verilerinizin güvenliğini nasıl sağladığımızı açıklar.
+
+1. Toplanan Kişisel Veriler ve Toplanma Yöntemleri
+Uygulamayı kullanırken sunduğumuz hizmetlerin doğası gereği aşağıdaki verileri topluyoruz:
+
+Kimlik ve İletişim Bilgileri: Ad, soyad ve e-posta adresi (hesap oluşturma ve destek süreçleri için).
+
+Astrolojik ve Kişisel Veriler: Doğum tarihi, doğum saati, doğum yeri ve cinsiyet (Kişiselleştirilmiş astroloji ve fal analizi yapabilmek için).
+
+Görsel Veriler: Kahve falı yorumu alabilmek için yüklediğiniz fincan ve tabak fotoğrafları.
+
+Finansal Veriler: Abonelik ve uygulama içi satın alım işlemleri (Bu veriler doğrudan RevenueCat ve ilgili uygulama mağazası tarafından işlenir; kredi kartı bilgileriniz tarafımızca saklanmaz).
+
+Teknik Veriler: IP adresi, cihaz modeli, işletim sistemi sürümü ve reklam kimliği (IDFA/AAID).
+
+2. Verilerin İşlenme Amacı ve Yapay Zeka Kullanımı
+Verileriniz şu amaçlarla işlenmektedir:
+
+Yapay Zeka Analizi: Yüklediğiniz fotoğraflar ve astrolojik bilgileriniz, Google Gemini API aracılığıyla analiz edilerek size özel fal yorumları oluşturulması için kullanılır.
+
+Bulut Depolama: Kullanıcı profilinizin ve geçmiş yorumlarınızın senkronize edilmesi için Supabase altyapısında saklanır.
+
+Kişiselleştirilmiş Deneyim: Tercihlerinize göre özelleştirilmiş içerik ve bildirimler sunmak.
+
+Reklam ve Analiz: Ücretsiz hizmetlerimizi sürdürebilmek adına Google AdMob üzerinden ilgi alanlarınıza yönelik reklamlar göstermek.
+
+3. Verilerin Paylaşımı ve Üçüncü Taraflar
+Gizliliğinizi korumak adına verilerinizi asla üçüncü şahıslara satmıyoruz. Ancak, hizmetin işleyişi için gerekli olan şu sağlayıcılarla veri paylaşımı yapılmaktadır:
+
+Google (Gemini & AdMob): Yapay zeka işleme ve reklam hizmetleri için.
+
+Supabase: Veri tabanı ve kullanıcı yetkilendirme hizmetleri için.
+
+RevenueCat: Satın alma doğrulaması ve abonelik yönetimi için.
+
+4. Veri Saklama ve Silme Hakları
+Verileriniz, üyeliğiniz devam ettiği sürece güvenli sunucularımızda saklanır. Dilediğiniz zaman uygulama içerisindeki "Hesabımı Sil" seçeneğiyle veya e-posta yoluyla bize ulaşarak tüm verilerinizin kalıcı olarak silinmesini talep edebilirsiniz.
+
+5. Çocukların Gizliliği
+Mistik Falcı, 13 yaş altı çocukların kullanımına uygun değildir. Reşit olmayan bireylerden bilerek veri toplandığını fark etmemiz durumunda, bu veriler derhal sistemlerimizden silinir.
+
+6. Hukuki Sorumluluk Reddi (Entertainment Purposes)
+Mistik Falcı tarafından sunulan tüm yorumlar ve içerikler tamamen eğlence amaçlıdır. Gerçeklik payı garanti edilmez; alınan kararlarda bağlayıcılığı bulunmamaktadır.
+
+7. İletişim
+Bu politika ile ilgili her türlü soru ve öneriniz için bizimle iletişime geçebilirsiniz:
+
+Yayıncı: Ortapp Teknoloji ve Yazılım Limited Şirketi
+E-posta: ortafilm@gmail.com
